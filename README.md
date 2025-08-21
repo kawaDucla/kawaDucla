@@ -55,5 +55,8 @@ Se quiser trocar uma ideia, me mande um e-mail: kawafelipeducla01@gmail.com
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300px">
+</p>
 
 Obrigado pela visita! 😊
