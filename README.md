@@ -1,6 +1,5 @@
 # Olá, eu sou o Kawã Felipe Ducla Aguiar! 👋
 
-![Olá GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 Bem-vindo ao meu perfil no GitHub!
 
@@ -45,5 +44,12 @@ Se quiser trocar uma ideia, me mande um e-mail: kawafelipeducla01@gmail.com
 
 
 ---
+
+## 📊 Minhas estatísticas no GitHub
+
+![Kawã's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawaDucla&show_icons=true&theme=radical)
+
+---
+
 
 Obrigado pela visita! 😊
