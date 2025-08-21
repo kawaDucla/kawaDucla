@@ -15,10 +15,10 @@ Bem-vindo ao meu perfil no GitHub!
 
 ## Projetos em destaque
 
-### [Flask Gamer]([https://github.com/kawaDucla/Flask-main](https://github.com/kawaDucla/flask))
+### [Flask Gamer](https://github.com/kawaDucla/Flask-main](https://github.com/kawaDucla/flask)
 Um projeto de site feito com Flask para compartilhar jogos e interagir com usuários.
 
-### [Site Força Jovem Vasco]([https://github.com/kawaDucla/seu-projeto-2](https://github.com/kawaDucla/site-for-ca-jovem-do-vasco))
+### [Site Força Jovem Vasco](https://github.com/kawaDucla/seu-projeto-2](https://github.com/kawaDucla/site-for-ca-jovem-do-vasco)
 Descrição breve do seu segundo projeto.
 
 ---
