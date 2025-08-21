@@ -9,23 +9,23 @@ Bem-vindo ao meu perfil no GitHub!
 - 🎓 Estudante de programação e apaixonado por tecnologia
 - 💻 Trabalho com Python, Flask, JavaScript e outras linguagens
 - 🚀 Estou sempre aprendendo e buscando novos desafios
-- 📫 Me encontre aqui: [LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [Twitter](https://twitter.com/seu-twitter)
+- 📫 Me encontre aqui: [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/kaw%C3%A3-felipe-ducla-aguiar-1587b8262/)) | 
 
 ---
 
 ## Projetos em destaque
 
-### [Flask Gamer](https://github.com/kawaDucla/Flask-main)
+### [Flask Gamer]([https://github.com/kawaDucla/Flask-main](https://github.com/kawaDucla/flask))
 Um projeto de site feito com Flask para compartilhar jogos e interagir com usuários.
 
-### [Seu Projeto 2](https://github.com/kawaDucla/seu-projeto-2)
+### [Site Força Jovem Vasco]([https://github.com/kawaDucla/seu-projeto-2](https://github.com/kawaDucla/site-for-ca-jovem-do-vasco))
 Descrição breve do seu segundo projeto.
 
 ---
 
 ## Contato
 
-Se quiser trocar uma ideia, me mande um e-mail: seuemail@email.com
+Se quiser trocar uma ideia, me mande um e-mail: kawafelipeducla01@gmail.com
 
 ---
 
