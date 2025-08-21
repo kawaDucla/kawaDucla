@@ -56,5 +56,5 @@ Se quiser trocar uma ideia, me mande um e-mail: kawafelipeducla01@gmail.com
 ---
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=4169E1&center=true&vCenter=true&lines=Obrigado+pela+visita!+🚀;Volte+sempre+😊" alt="Obrigado pela visita!">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=87CEEB&center=true&vCenter=true&lines=Obrigado+pela+visita!+🚀;Volte+sempre+😊" alt="Obrigado pela visita!">
 </h1>
