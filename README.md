@@ -55,3 +55,7 @@ Se quiser trocar uma ideia, me mande um e-mail: kawafelipeducla01@gmail.com
 
 
 Obrigado pela visita! 😊
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kawaDucla&theme=radical)](https://github.com/kawaDucla)
+
