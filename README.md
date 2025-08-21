@@ -16,15 +16,8 @@ Bem-vindo ao meu perfil no GitHub!
 
 ## Portfólio
 
-[Portfólio](https://github.com/kawaDucla/Portfolio](https://github.com/kawaDucla/Portfolio))
+[Portfolio kawa](https://github.com/kawaDucla/Portfolio)
 Meu portfólio com meus projetos
-
-[Flask Gamer](https://github.com/kawaDucla/flask)  
-Um projeto de site feito com Flask para compartilhar jogos e interagir com usuários.
-
-[Site Força Jovem Vasco](https://github.com/kawaDucla/site-for-ca-jovem-do-vasco)  
-Site feito com o tema da Força Jovem do vasco, apenas o front
-
 
 ---
 
