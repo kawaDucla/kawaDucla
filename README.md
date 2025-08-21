@@ -55,8 +55,8 @@ Se quiser trocar uma ideia, me mande um e-mail: kawafelipeducla01@gmail.com
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300px">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&center=true&vCenter=true&lines=Obrigado+pela+visita!+🚀;Volte+sempre+😊" alt="Obrigado pela visita!">
+</h1>
 
 Obrigado pela visita! 😊
