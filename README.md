@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil no GitHub!
 - 🎓 Estudante de programação e apaixonado por tecnologia
 - 💻 Trabalho com Python, Flask, JavaScript e outras linguagens
 - 🚀 Estou sempre aprendendo e buscando novos desafios
-- 📫 Me encontre aqui: [LinkedIn]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/kaw%C3%A3-felipe-ducla-aguiar-1587b8262/)) | 
+- 📫 Me encontre aqui: [LinkedIn](https://www.linkedin.com/in/kaw%C3%A3-felipe-ducla-aguiar-1587b8262/)
 
 ---
 
