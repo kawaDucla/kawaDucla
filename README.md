@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil no GitHub!
 Um projeto de site feito com Flask para compartilhar jogos e interagir com usuários.
 
 [Site Força Jovem Vasco](https://github.com/kawaDucla/site-for-ca-jovem-do-vasco)  
-Descrição breve do seu segundo projeto.
+Site feito com o tema da Força Jovem do vasco, apenas o front
 
 
 ---
