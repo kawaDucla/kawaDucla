@@ -1,4 +1,4 @@
-# Olá, eu sou o kawaDucla! 👋
+# Olá, eu sou o Kawã Felipe Ducla Aguiar! 👋
 
 Bem-vindo ao meu perfil no GitHub!
 
