@@ -26,7 +26,7 @@ Um projeto de site feito com Flask para compartilhar jogos e interagir com usuá
 Site com o tema da Força Jovem Vasco, apenas front
 
 [Jogo Rotas Italianas](https://github.com/kawaDucla/Jogo-Rota-italianas)<br>
-Jogo feito para trabalho de histório com o tema de Rotas Italianas em Nereu Ramos e sobre a Paróquia Nossa Senhora do Rosário
+Jogo feito para o trabalho de história com o tema de Rotas Italianas em Nereu Ramos e sobre a Paróquia Nossa Senhora do Rosário
 
 ---
 
