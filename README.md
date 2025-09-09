@@ -28,6 +28,9 @@ Site com o tema da Força Jovem Vasco, apenas front
 [Jogo Rotas Italianas](https://github.com/kawaDucla/Jogo-Rota-italianas)<br>
 Jogo feito para o trabalho de história com o tema de Rotas Italianas em Nereu Ramos e sobre a Paróquia Nossa Senhora do Rosário
 
+[Pokedex](https://github.com/kawaDucla/Pokedex)<br>
+Uma Pokedex feita com Node.JS, Caso queira acessar o site: [Clique aqui](https://kawaducla.github.io/Pokedex/)
+
 ---
 
 ## Contato
