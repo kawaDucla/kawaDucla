@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil no GitHub!
 Meu portfólio com projetos
 
 [Biblioteca Flask](https://github.com/kawaDucla/Biblioteca-flask)  
-Um projeto de gerenciamento de empréstimo de livros usando flask [Clique aqui](https://biblioteca-flask-pdwm.onrender.com)
+Um projeto de gerenciamento de empréstimo de livros usando flask 
 
 [Site Força Jovem Vasco](https://github.com/kawaDucla/site-for-ca-jovem-do-vasco)  
 Site com o tema da Força Jovem Vasco, apenas front
